@@ -1,4 +1,4 @@
-class AwsOkta < Formula
+class OgAwsOkta < Formula
   desc "Authenticate with AWS using your Okta credentials"
   homepage "https://github.com/segmentio/aws-okta"
   url "https://github.com/segmentio/aws-okta/archive/v0.27.0.tar.gz"
