@@ -6,5 +6,5 @@ cask 'og-aws-okta' do
   name 'og-aws-okta'
   homepage 'https://github.com/garyschulteog/homebrew-og'
 
-  artifact 'aws-okta', target: '/usr/local/bin/aws-okta'
+  artifact 'bin/aws-okta', target: '/usr/local/bin/aws-okta'
 end
